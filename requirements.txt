@@ -1,3 +1,11 @@
 django
 gunicorn
 django-heroku
+numpy
+requests
+pandas
+geopy
+shapely
+sklearn
+openpyxl
+math
